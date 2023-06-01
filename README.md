@@ -9,6 +9,8 @@ The intended use case for MiniWorld is for instanced dungeons, or other applicat
 MiniWorld may function with additional versions of Minecraft, however this is untested and not guaranteed.
 Support for pre-1.16 is not likely.
 
+See https://github.com/NotThatRqd/MiniWorld2 for later Minecraft version support.
+
 ## MiniWorld Commands:
 
 Command | Arguments | Description
